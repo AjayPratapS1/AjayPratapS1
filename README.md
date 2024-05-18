@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, React**
 
-- 👨‍💻 All of my projects are available at [https://ajayprataps1.github.io/Portfolio/](https://ajayprataps1.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolioajay.vercel.app/](https://portfolioajay.vercel.app/)
 
 - 💬 Ask me about **C++, JavaScript, React**
 
