@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++, React**
+- 🌱 I’m currently learning **C++, React, Node.js, Express.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolioajay.vercel.app/](https://portfolioajay.vercel.app/)
 
-- 💬 Ask me about **C++, JavaScript, React**
+- 💬 Ask me about **C++, JavaScript, React, Node.js, Express.js, MongoDB, SQL**
 
 - 📫 How to reach me **ajaypratapsingh8958a@gmail.com**
 
